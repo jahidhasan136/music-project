@@ -1,0 +1,92 @@
+@media screen and (max-width: 918px){
+  .ipad{
+    margin-top: -250px;
+    position: relative;
+    top: 250px;
+  }
+  .ipad img{
+    width: 500px;
+  }
+  .about_music{
+    margin-top: 300px;
+  }
+}
+@media screen and (max-width: 602px){
+  .about_music{
+    margin-top: 300px;
+  }
+  .about_music .container{
+    gap: 15px;
+  }
+  .about_music h3{
+    font-size: 17px;
+  }
+  .about_music p{
+    font-size: 11px;
+  }
+  .about_music button{
+    padding: 5px 10px;
+  }
+  .mac img{
+    width: 500px;
+  }
+  .gift_card img{
+    width: 200px;
+  }
+  .gift_content{
+    gap: 10px;
+  }
+  .gift_content p{
+    font-size: 11px;
+  }
+  .gift_content button{
+    padding: 5px 10px;
+  }
+  .footer_link h3{
+    font-size: 13px;
+  }
+  .footer_link ul{
+    font-size: 11px;
+  }
+}
+@media screen and (max-width: 530px){
+  .nav{
+    flex-direction: column;
+    gap: 20px;
+  }
+  .hero .container{
+    gap: 10px;
+  }
+  .hero h1{
+    font-size: 56px;
+  }
+  .hero h3{
+    font-size: 17px;
+  }
+  .hero p{
+    font-size: 12px;
+  }
+  .music .container{
+    gap: 10px;
+  }
+  .music h4{
+    font-size: 13px;
+  }
+  .music button{
+    padding: 6px 10px;
+  }
+  .ipad {
+    margin-top: -130px;
+    position: relative;
+    top: 130px;
+  }
+  .ipad img{
+    width: 300px;
+  }
+  .about_music{
+    margin-top: 200px;
+  }
+  .mac img{
+    width: 300px;
+  }
+}
